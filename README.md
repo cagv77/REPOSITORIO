@@ -1,2 +1,2 @@
 # REPOSITORIO
- Reposiório para avaliações
+ Repositório para avaliações
